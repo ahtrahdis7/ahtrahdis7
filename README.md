@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I'm currently working on NLP Models for Text Classification.
+- I've knowledge of ML and DL models training, testing and evaluaiton.
+- I'm a MERN Stack developer 
+- I can make poduction ready native apps.
+- Conversational AI interests me the most.
 <!--
 **ahtrahdis7/ahtrahdis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
