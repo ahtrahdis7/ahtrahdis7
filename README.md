@@ -1,10 +1,9 @@
-### Hi there 👋, I'm
+### Hi there 👋, I'm a
 
-- currently working on NLP Models for Text Classification.
-- a ML and DL enthusiast
-- a MERN Stack developer 
-- a React Native developer
- 
+- ML and DL enthusiast
+- MERN Stack developer 
+- React Native developer
+#### Currently working on NLP Models for Text Classification.
 #### Conversational AI interests me the most.
 <!--
 **ahtrahdis7/ahtrahdis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
