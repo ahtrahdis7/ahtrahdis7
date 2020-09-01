@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm a
 
-- ML and DL enthusiast
-- MERN Stack developer 
-- React Native developer
+- ML and DL Enthusiast
+- MERN Stack Developer 
+- React Native Developer
 #### Currently working on NLP Models for Text Classification.
 #### Conversational AI interests me the most.
 <!--
