@@ -5,6 +5,8 @@
 - React Native Developer
 #### Currently working on NLP Models for Text Classification.
 #### Conversational AI interests me the most.
+
+If you are interested in calligraphy too, let's have a coffee somewhere or maybe online.
 <!--
 **ahtrahdis7/ahtrahdis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
