@@ -13,6 +13,9 @@
 
 If you are interested in calligraphy too, let's have a coffee somewhere or maybe online.
 
+<p>
+  Social Media
+  </p>
 <p align="left">
 <a href="https://twitter.com/SidMallick7"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width="50px" alt="twitter"/></a>	
 <a href="https://www.instagram.com/sidmallick7/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="50px" alt="instagram"/></a>	
