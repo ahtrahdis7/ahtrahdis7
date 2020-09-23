@@ -3,8 +3,8 @@
 - ML and DL Enthusiast
 - MERN Stack Developer 
 - React Native Developer
-#### Currently working on NLP Models for Text Classification.
-#### Conversational AI interests me the most.
+- Currently working on NLP and Conversational AI
+
 
 ### Hashtag Chill 😄
 - Calligraphy
