@@ -3,7 +3,7 @@
 - ML and DL Enthusiast
 - MERN Stack Developer 
 - React Native Developer
-- Currently working on NLP and Conversational AI
+- Currently working on NLP, Conversational AI and Browser Models
 
 
 ### Hashtag Chill 😄
