@@ -24,3 +24,4 @@ If you are interested in calligraphy too, let's have a coffee somewhere or maybe
 <a href="https://medium.com/@sidharthabiki"><img src="https://img.icons8.com/color/96/000000/medium.png" width="50px" alt="medium"/></a>	
 <a href="https://www.linkedin.com/in/mallicksidhartha7/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50px" alt="linkedin"/></a>
 </p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=ahtrahdis7.ahtrahdis7" height=29>
