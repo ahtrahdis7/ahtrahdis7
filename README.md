@@ -12,9 +12,6 @@
 - Doodling
 - Binge Watching
 
-If you are interested in calligraphy too, let's have a coffee somewhere or maybe online.
-
-
 ### Social Media
 
 <p align="left">
@@ -26,4 +23,4 @@ If you are interested in calligraphy too, let's have a coffee somewhere or maybe
 <a href="https://www.linkedin.com/in/mallicksidhartha7/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50px" alt="linkedin"/></a>
 </p>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=ahtrahdis7.ahtrahdis7" height="25px" vertical-align="center" >
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=ahtrahdis7.ahtrahdis7" height="25px" vertical-align="center" > -->
