@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm a
 
 - ML and DL Enthusiast
-- MERN Stack Developer 
-- React Native Developer
+- MERN Stack 
+- React Native App
 - Currently working on NLP, Conversational AI and Browser Models
 
 
@@ -10,6 +10,7 @@
 - Calligraphy
 - Photography
 - Doodling
+- Binge Watching
 
 If you are interested in calligraphy too, let's have a coffee somewhere or maybe online.
 
