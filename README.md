@@ -3,6 +3,7 @@
 - ML and DL Enthusiast
 - MERN Stack 
 - React Native App
+- Learning GO and Vue.Js
 - Currently working on NLP, Conversational AI and Browser Models
 
 
