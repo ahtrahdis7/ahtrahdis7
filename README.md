@@ -8,7 +8,8 @@
 
 ## Stats
 <p align="">
-<img src="https://github-readme-stats.vercel.app/api?username=ahtrahdis7&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahtrahdis7&show_icons=true" height = "200" />
+ &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtrahdis7&layout=compact&theme=buefy" alt="languages" height = "200">
 </p>
 
 
