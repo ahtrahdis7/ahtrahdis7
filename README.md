@@ -6,6 +6,11 @@
 - Learning GO and Vue.Js
 - Currently working on NLP, Conversational AI and Browser Models
 
+## Stats
+<p align="">
+<img src="https://github-readme-stats.vercel.app/api?username=ahtrahdis7&show_icons=true" />
+</p>
+
 
 ### Hashtag Chill 😄
 - Calligraphy
