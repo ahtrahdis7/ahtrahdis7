@@ -9,7 +9,7 @@
 ## Stats
 <p align="">
 <img src="https://github-readme-stats.vercel.app/api?username=ahtrahdis7&show_icons=true" height = "200" width="420" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtrahdis7&layout=compact&theme=buefy" alt="languages" height = "200" width="351">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtrahdis7&layout=compact&show_icons=true" alt="languages" height = "200" width="351">
 </p>
 
 
