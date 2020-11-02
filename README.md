@@ -1,4 +1,6 @@
-### Hi there 👋, I'm a
+<h2 align = 'center'>Hi there 👋, </h2>
+
+###  Myself Sidhartha and I'm a
 
 - ML and DL Enthusiast
 - MERN Stack Dev.
@@ -6,7 +8,7 @@
 - Learning GO and Vue.Js
 - Currently working on NLP, Conversational AI and Browser Models
 
-## Stats
+### Stats
 <p align="">
 <img src="https://github-readme-stats.vercel.app/api?username=ahtrahdis7&show_icons=true" height = "200" width="420" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtrahdis7&layout=compact&show_icons=true" alt="languages" height = "200" width="351"> -->
