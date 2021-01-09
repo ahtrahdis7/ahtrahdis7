@@ -1,25 +1,11 @@
-<h2 align = 'center'>Hi there 👋, </h2>
-
-###  Myself Sidhartha and I'm a
-
-- ML and DL Enthusiast
-- MERN Stack Dev.
-- React Native App Dev.
-- Learning golang
-- Currently working on tfjs and in-browser Models
-
-### Stats
-<p align="">
-<img src="https://github-readme-stats.vercel.app/api?username=ahtrahdis7&show_icons=true" height = "200" width="420" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtrahdis7&layout=compact&show_icons=true" alt="languages" height = "200" width="351"> -->
-</p>
+<h2>Why here ? </h2>
 
 
-### Hashtag Chill 😄
+### What I do ? 😄
 - Calligraphy
 - Photography
 - Doodling
-- Binge Watching
+- Binge Watch Netflix
 
 ### Social Media
 
