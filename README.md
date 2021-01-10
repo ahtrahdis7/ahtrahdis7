@@ -1,11 +1,10 @@
 <h2>Why here ? </h2>
 
+## What I know ?
+`C` `C++` 
 
 ### What I do ? 😄
-- Calligraphy
-- Photography
-- Doodling
-- Binge Watch Netflix
+`Calligraphy`  `Photography` `Doodling` `Netflix`
 
 ### Social Media
 
