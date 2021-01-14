@@ -5,7 +5,7 @@
 </p>
 
 ## What I know ?
-`C` `C++` `Js` `React` `React Native` `Node`
+`C` `C++` `Js` `React` `React Native` `Nodejs` 
 
 ### What I do ? 😄
 `Calligraphy`  `Photography` `Doodling` `Netflix`
