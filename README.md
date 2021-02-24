@@ -1,10 +1,10 @@
-<h2>Hello There !! </h2>
+<h2>Hi There !! </h2>
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/44672399/104120120-64e7b180-535a-11eb-99bd-6a8b1d647a7a.jpeg">
 </p>
 
-## What I know ?
+### What I know ?
 `C` `C++` `Js` `React` `React Native` `Nodejs` 
 
 ### What I do ? 😄
