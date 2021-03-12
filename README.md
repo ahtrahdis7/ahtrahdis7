@@ -1,6 +1,7 @@
 <h2>Hi There !! </h2>
+> I’m a vegetarian except for fish, and the occasional steak. I love steak!
 <p align="center" margin="100px">
-  <q>I’m a vegetarian except for fish, and the occasional steak. I love steak!</q>
+
   
   <img width="460" height="300" src="https://user-images.githubusercontent.com/44672399/104120120-64e7b180-535a-11eb-99bd-6a8b1d647a7a.jpeg">
 </p>
