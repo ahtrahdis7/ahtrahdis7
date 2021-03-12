@@ -1,4 +1,4 @@
-<h1>Hi There !! </h1>
+<h1>👋 Hi There !! </h1>
 
 > I am a horny engineer; I never joke about math or sex. <bR>
 > I’m a vegetarian except for fish, and the occasional steak. I love steak!
@@ -15,7 +15,7 @@
 
 </p>
 
-### What I know ?
+### What I know ? 🤔
 `C` `C++` `Js` `Python` `Java`
 <br>
 `React` `React Native` `Nodejs` `tf` `Flask`
