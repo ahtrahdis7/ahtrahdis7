@@ -1,11 +1,11 @@
-<h2>Hi There !! </h2>
-> I’m a vegetarian except for fish, and the occasional steak. I love steak!
-<p align="center" margin="100px">
+<h1>Hi There !! </h1>
 
-  
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/44672399/104120120-64e7b180-535a-11eb-99bd-6a8b1d647a7a.jpeg">
+> I am a horny engineer; I never joke about math or sex. <bR>
+> I’m a vegetarian except for fish, and the occasional steak. I love steak!
+<p align="left" margin="100px">
+  <img width="360" height="200" src="https://user-images.githubusercontent.com/44672399/104120120-64e7b180-535a-11eb-99bd-6a8b1d647a7a.jpeg">
 </p>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mallicksidhartha7/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="70px" alt="linkedin"/></a>
 <a href="https://twitter.com/SidMallick7" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width="70px" alt="twitter"/></a>	
 <a href="https://www.instagram.com/sidmallick7/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="70px" alt="instagram"/></a>	
