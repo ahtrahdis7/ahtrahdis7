@@ -14,9 +14,9 @@
 </p>
 
 ### What I know ?
-`C` `C++` `Js` `Python` 
+`C` `C++` `Js` `Python` `Java`
 <br>
-`React` `React Native` `Nodejs` `tf` 
+`React` `React Native` `Nodejs` `tf` `Flask`
 
 ### What I do ? 😄
 `Calligraphy`  `Photography` `Doodling` `Netflix`
