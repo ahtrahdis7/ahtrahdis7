@@ -1,12 +1,14 @@
 <h1>👋 Hi There !! </h1>
 
+#### I am Sid, and I am not crazy, my mother had me tested 😋😋
+<!-- 
 > I am a horny engineer; I never joke about math or sex. <bR>
 > I’m a vegetarian except for fish, and the occasional prawn. I love prawn!
 <p align="left" margin="100px">
   <img width="360" height="200" src="https://user-images.githubusercontent.com/44672399/104120120-64e7b180-535a-11eb-99bd-6a8b1d647a7a.jpeg">
 </p>
 
-
+ -->
 ### What I know ? 🤔
 `C` `C++` `Js` `Python` `Java` `React` `React Native` `Nodejs` `tf` `Flask` `MongoDB`
 
