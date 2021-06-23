@@ -14,7 +14,7 @@
 `Calligraphy`  `Photography` `Doodling` `Netflix` `Prime` `Indoor Gardening`
 
   
-### What I really do ? 😉😌
+### What I really do ? 😌
   
   - I develop web/backend servers for web/android apps using `NodeJS` and `Flask`, and `MongoDB` as DB.
   - I also develop cross platform mobile apps using `React Native` and `React` Web apps.
@@ -23,10 +23,11 @@
   - I have basic knowledge of various ML/DL algos starting from basic `regression` models to deep learning algorithms like `CNNs`, `RNNs`, `Auto Encoders`, etc.
   - I have firm grip over languages like `Python`, `JavaScript` and `C++` (I use C++ for coding out algos).
   - I know to use and have used on multiple occasions packages like `NumPy`, `Pandas`, `SciPy`, `Scikit-Learn` and frameworks like `Tensorflow`
-  
+
+### My work that I have been Proud of ? 😎
+  My work with [Juglr.fit](https://juglr.fit), Implementing the `Posenet` model on a react-native app with the help of `tfjs-react-native` was easy, no doubt. But, enhancing its performannce on a app, that runs on a single thread was challenging. Initial implementation got us 4-6 FPS on different category of mobile phones. Since, Posenet is heavy, it ate up the only thread to use hence leaving us with the performance issue with the UI/ UX as well as with the tracker. First of all, there was a bridge which we were using inside the app which also introduced certain delays. There was no one to guide us on app development and about improving its performances. After around 2 months of searching, we freed up the bridge saving us some time. But, we got a significant inprovement when I came across a package which frees up the UI thread and pushes the heavy tasks into a background thread. That helped us achieve about 10+ FPS on an average which was good enough for scaling to users. Unfortunately, the I was unable to scale the skeleton with the actual human body across all devices. It was a drawback of the react native. So, the project never went ahead. Now, there is some planning going on to develop that app further but ofc for other purposes. Kudos to me.
 <br>
-  <br>
-  <br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/mallicksidhartha7/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50px" alt="linkedin"/></a>
 <a href="https://twitter.com/SidMallick7" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width="50px" alt="twitter"/></a>	
