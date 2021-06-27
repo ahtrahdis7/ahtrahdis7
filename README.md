@@ -1,6 +1,6 @@
 <h1>👋 Hi There !! </h1>
 
-I am Sid, and I am not crazy, my mother had me tested. 😋😋
+I am Sid, and I am not a geek.
 <!-- 
 > I am a horny engineer; I never joke about math or sex. <bR>
 > I’m a vegetarian except for fish, and the occasional prawn. I love prawn!
