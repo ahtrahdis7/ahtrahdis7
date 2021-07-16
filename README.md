@@ -38,5 +38,8 @@ I am Sid, and I am not a geek.
 <a href="https://medium.com/@ahtrahdis7" target="_blank"><img src="https://img.icons8.com/color/96/000000/medium.png" width="50px" alt="medium"/></a>	
 
 </p>
+<p align="right"> 
+  <img  width="100px" src="https://komarev.com/ghpvc/?username=ahtrahdis7&color=green" />
+</p>
 
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=ahtrahdis7.ahtrahdis7" height="25px" vertical-align="center" > -->
