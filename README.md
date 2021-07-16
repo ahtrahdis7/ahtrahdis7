@@ -33,7 +33,7 @@ I am Sid, and I am not a geek.
 <p align="center">
 <a href="https://www.linkedin.com/in/mallicksidhartha7/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50px" alt="linkedin"/></a>
 <a href="https://twitter.com/SidMallick7" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width="50px" alt="twitter"/></a>	
-<a href="https://www.instagram.com/sidmallick7/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="50px" alt="instagram"/></a>
+<a href="https://www.instagram.com/sidhartha.m7/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="50px" alt="instagram"/></a>
 <a href="https://open.spotify.com/user/31befgzrzqebeulnax65copcgtre"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" width="50px" alt="spotify"/></a>
 <a href="https://medium.com/@ahtrahdis7" target="_blank"><img src="https://img.icons8.com/color/96/000000/medium.png" width="50px" alt="medium"/></a>	
 
