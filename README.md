@@ -45,5 +45,6 @@ I am Sid, and I am not a geek.
 <p align="right"> 
   <img  width="100px" src="https://komarev.com/ghpvc/?username=ahtrahdis7&color=green" />
 </p>
+<img src="https://activity-graph.herokuapp.com/graph?username=ahtrahdis7&bg_color=f5f5f5&color=000000&line=00b300&point=000000">
 
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=ahtrahdis7.ahtrahdis7" height="25px" vertical-align="center" > -->
