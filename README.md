@@ -30,6 +30,7 @@ I am Sid, and I am not a geek.
 - <a href="https://ahtrahdis7.medium.com/getting-started-with-tfjs-in-react-native-cbdcf4d9a9ad?source=your_stories_page-------------------------------------" target="_blank"> Getting started with tfjs in React Native</a>
 - <a href="https://ahtrahdis7.medium.com/ocr-using-pytesseract-flask-server-of-a-base64-image-string-in-python-d606623397ed?source=your_stories_page-------------------------------------" target="_blank">OCR using Pytesseract + Flask Server of a base64 Image String in Python </a>
 - <a href="https://ahtrahdis7.medium.com/send-mail-using-nodemailer-and-node-js-from-a-gmail-account-46639bd81ab9?source=your_stories_page-------------------------------------" target="_blank">Send mail using Nodemailer and Node.js from a gmail account. </a>
+-  <a href="https://ahtrahdis7.github.io/react-hooks-usage-demo/" target="_blank">Understanding React Hooks, with Live Examples</a>
 ### My work that I have been Proud of ? 😎
   My work with [Juglr.fit](https://juglr.fit), Implementing the `Posenet` model on a react-native app with the help of `tfjs-react-native` was easy, no doubt. But, enhancing its performannce on a app, that runs on a single thread was challenging. Initial implementation got us 4-6 FPS on different category of mobile phones. Since, Posenet is heavy, it ate up the only thread to use hence leaving us with the performance issue with the UI/ UX as well as with the tracker. First of all, there was a bridge which we were using inside the app which also introduced certain delays. There was no one to guide us on app development and about improving its performances. After around 2 months of searching, we freed up the bridge saving us some time. But, we got a significant inprovement when I came across a package which frees up the UI thread and pushes the heavy tasks into a background thread. That helped us achieve about 10+ FPS on an average which was good enough for scaling to users. Unfortunately, the I was unable to scale the skeleton with the actual human body across all devices.
 <br>
@@ -40,7 +41,7 @@ I am Sid, and I am not a geek.
 <a href="https://www.instagram.com/sidhartha.m7/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="50px" alt="instagram"/></a>
 <a href="https://open.spotify.com/user/31befgzrzqebeulnax65copcgtre"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" width="50px" alt="spotify"/></a>
 <a href="https://medium.com/@ahtrahdis7" target="_blank"><img src="https://img.icons8.com/color/96/000000/medium.png" width="50px" alt="medium"/></a>	
-
+ 
 </p>
 <p align="right"> 
   <img  width="100px" src="https://komarev.com/ghpvc/?username=ahtrahdis7&color=green" />
