@@ -43,11 +43,12 @@ I am Sid, and I am not a geek.
 <a href="https://www.instagram.com/sidhartha.m7/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="50px" alt="instagram"/></a>
 <a href="https://open.spotify.com/user/31befgzrzqebeulnax65copcgtre"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" width="50px" alt="spotify"/></a>
 <a href="https://medium.com/@ahtrahdis7" target="_blank"><img src="https://img.icons8.com/color/96/000000/medium.png" width="50px" alt="medium"/></a>	
- 
+<a href="https://ahtrahdis7.hashnode.dev" target="_blank"><img src="https://user-images.githubusercontent.com/44672399/129309851-c9312414-0e90-48ba-9017-8323c6ca6dd3.png" width="50px" alt="hashnode" /></a>
 </p>
 <p align="right"> 
   <img  width="100px" src="https://komarev.com/ghpvc/?username=ahtrahdis7&color=green" />
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=ahtrahdis7&bg_color=f5f5f5&color=000000&line=00b300&point=000000">
+
 
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=ahtrahdis7.ahtrahdis7" height="25px" vertical-align="center" > -->
