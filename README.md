@@ -1,16 +1,9 @@
-<h1>👋 Hi There !! </h1>
+<h1>👋 Hi There !! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> </h1>
 
-I am Sid, and I am not a geek.
-<!-- 
-> I am a horny engineer; I never joke about math or sex. <bR>
-> I’m a vegetarian except for fish, and the occasional prawn. I love prawn!
-<p align="left" margin="100px">
-  <img width="360" height="200" src="https://user-images.githubusercontent.com/44672399/104120120-64e7b180-535a-11eb-99bd-6a8b1d647a7a.jpeg">
-</p>
+<img width="1680" alt="Screenshot 2021-11-13 at 12 35 03 PM" src="https://user-images.githubusercontent.com/44672399/141609494-c39bbef7-c46f-4e34-b9fa-b4c5881c744f.png">
 
- -->
 ### What I know ? 🤔
-`C` `C++` `Js` `Python` `Java` `React` `React Native` `Nodejs` `tf` `Flask` `MongoDB`
+`C` `C++` `JavaScript` `Python` `aws` `React` `React Native` `Nodejs` `tf` `Flask` `MongoDB`
 
 ### What I do ? 😄
 `Calligraphy`  `Photography` `Doodling` `Netflix` `Prime` `Indoor Gardening`
@@ -46,9 +39,9 @@ I am Sid, and I am not a geek.
 <a href="https://ahtrahdis7.hashnode.dev" target="_blank"><img src="https://user-images.githubusercontent.com/44672399/129309851-c9312414-0e90-48ba-9017-8323c6ca6dd3.png" width="50px" alt="hashnode" /></a>
 </p>
 <p align="right"> 
-  <img  width="100px" src="https://komarev.com/ghpvc/?username=ahtrahdis7&color=green" />
+  <img  width="100px" src="https://komarev.com/ghpvc/?username=ahtrahdis7&color=007fff" />
 </p>
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=ahtrahdis7&bg_color=f5f5f5&color=000000&line=00b300&point=000000"> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=ahtrahdis7&bg_color=ffffff&color=000000&line=0059b3&point=003163">
 
 
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=ahtrahdis7.ahtrahdis7" height="25px" vertical-align="center" > -->
