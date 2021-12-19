@@ -33,7 +33,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mallicksidhartha7/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50px" alt="linkedin"/></a>
 <a href="https://twitter.com/SidMallick7" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width="50px" alt="twitter"/></a>	
-<a href="https://www.instagram.com/sidhartha.m7/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="50px" alt="instagram"/></a>
+<a href="https://www.instagram.com/ahtrahdis7/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="50px" alt="instagram"/></a>
 <a href="https://open.spotify.com/user/31befgzrzqebeulnax65copcgtre"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" width="50px" alt="spotify"/></a>
 <a href="https://medium.com/@ahtrahdis7" target="_blank"><img src="https://img.icons8.com/color/96/000000/medium.png" width="50px" alt="medium"/></a>	
 <a href="https://ahtrahdis7.hashnode.dev" target="_blank"><img src="https://user-images.githubusercontent.com/44672399/129309851-c9312414-0e90-48ba-9017-8323c6ca6dd3.png" width="50px" alt="hashnode" /></a>
