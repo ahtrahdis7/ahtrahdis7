@@ -9,14 +9,14 @@
 
   
 ### What I really do ? 😌
-  
-  - I develop web/backend servers for web/android apps using `NodeJS` and `Flask`, and `MongoDB` as DB.
+  - Always kid around... and yes, I write blogs on dev.to, medium and hashnode.
+<!--   - I develop web/backend servers for web/android apps using `NodeJS` and `Flask`, and `MongoDB` as DB.
   - I also develop cross platform mobile apps using `React Native` and `React` Web apps.
   - I find great pleasure in mixing up tech stacks and especially while implementing ML/DL models to work with the clients and servers.
   - I find `LeetCode` as a great place to brush up my cognitive skills, for developing better apps, ovio.
   - I have basic knowledge of various ML/DL algos starting from basic `regression` models to deep learning algorithms like `CNNs`, `RNNs`, `Auto Encoders`, etc.
   - I have firm grip over languages like `Python`, `JavaScript` and `C++` (I use C++ for coding out algos).
-  - I know to use and have used on multiple occasions packages like `NumPy`, `Pandas`, `SciPy`, `Scikit-Learn` and frameworks like `Tensorflow`
+  - I know to use and have used on multiple occasions packages like `NumPy`, `Pandas`, `SciPy`, `Scikit-Learn` and frameworks like `Tensorflow` -->
 ### My Blogs
 - <a href="https://ahtrahdis7.medium.com/free-up-main-ui-thread-in-react-native-for-building-a-smooth-ui-using-react-native-bg-thread-b0f64e5c309f?source=your_stories_page-------------------------------------" target="_blank">Free-up Main-UI Thread in React Native for building a Smooth UI using react-native-bg-thread </a>
 - <a href="https://ahtrahdis7.medium.com/getting-started-with-tfjs-in-react-native-cbdcf4d9a9ad?source=your_stories_page-------------------------------------" target="_blank"> Getting started with tfjs in React Native</a>
@@ -28,9 +28,9 @@
 -  [Random Cropping/Scaling Images to Fit the Required Specs or Dimensions for Any kind of Uploads](https://ahtrahdis7.hashnode.dev/random-croppingscaling-images-to-fit-the-required-specs-or-dimensions-for-any-kind-of-uploads)
 
 
-### My work that I have been Proud of ? 😎
+<!-- ### My work that I have been Proud of ? 😎
   My work with [Juglr.fit](https://juglr.fit), Implementing the `Posenet` model on a react-native app with the help of `tfjs-react-native` was easy, no doubt. But, enhancing its performannce on a app, that runs on a single thread was challenging. Initial implementation got us 4-6 FPS on different category of mobile phones. Since, Posenet is heavy, it ate up the only thread to use hence leaving us with the performance issue with the UI/ UX as well as with the tracker. First of all, there was a bridge which we were using inside the app which also introduced certain delays. There was no one to guide us on app development and about improving its performances. After around 2 months of searching, we freed up the bridge saving us some time. But, we got a significant inprovement when I came across a package which frees up the UI thread and pushes the heavy tasks into a background thread. That helped us achieve about 10+ FPS on an average which was good enough for scaling to users. Unfortunately, the I was unable to scale the skeleton with the actual human body across all devices.
-<br>
+<br> -->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mallicksidhartha7/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50px" alt="linkedin"/></a>
