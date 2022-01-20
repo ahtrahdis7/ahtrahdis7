@@ -10,3 +10,7 @@ Find my blogs at - <br />
 You can find me at - <br />
 - [Linkedin](https://www.linkedin.com/in/mallicksidhartha7/) <br />
 - [Twitter](https://twitter.com/SidMallick7) <br />
+
+<p align="right"> 
+  <img  width="100px" src="https://komarev.com/ghpvc/?username=ahtrahdis7&color=007fff" />
+</p>
