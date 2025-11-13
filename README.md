@@ -9,7 +9,7 @@ Find my blogs at - <br />
 
 You can find me at - <br />
 - [Linkedin](https://www.linkedin.com/in/mallicksidhartha7/) <br />
-- [Twitter](https://twitter.com/SidMallick7) <br />
+- [Twitter]([https://twitter.com/SidMallick7](https://x.com/m_sidhartha07)) <br />
 
 Expo Templates
 ```sh
