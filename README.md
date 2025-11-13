@@ -7,9 +7,9 @@ Find my blogs at - <br />
 - [medium](https://ahtrahdis7.medium.com) <br />
 - [hashnode](https://ahtrahdis7.hashnode.dev) <br />
 
-You can find me at - <br />
+You can find me on - <br />
 - [Linkedin](https://www.linkedin.com/in/mallicksidhartha7/) <br />
-- [Twitter]([https://twitter.com/SidMallick7](https://x.com/m_sidhartha07)) <br />
+- [X](https://x.com/m_sidhartha07) <br />
 
 Expo Templates
 ```sh
