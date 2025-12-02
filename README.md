@@ -1,20 +1,43 @@
-<h3>👋 <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="35" /></h3>
-Hi, I am Sidhartha. Just kidding around with code.
-<br />
+# Sidhartha Mallick 👋
 
-Find my blogs at - <br />
-- [dev](https://dev.to/ahtrahdis7) <br />
-- [medium](https://ahtrahdis7.medium.com) <br />
-- [hashnode](https://ahtrahdis7.hashnode.dev) <br />
+| Mobile Engineer & Builder | Build; Measure; Learn | Flutter, iOS @ GoPay |
 
-You can find me on - <br />
-- [Linkedin](https://www.linkedin.com/in/mallicksidhartha7/) <br />
-- [X](https://x.com/m_sidhartha07) <br />
+I live by a simple loop: **Build; Measure;  Learn**.  For me, coding is about shipping products that **actually work**.
 
-Expo Templates
-```sh
-expo init my-app --template react-native-nativebase-bottom-tabs-template
-```
-<p align="right"> 
-  <img  width="100px" src="https://komarev.com/ghpvc/?username=ahtrahdis7&color=007fff" />
+---
+
+### 🚀 Current Status
+
+* **GoTo Group (GoPay):** Crafting seamless mobile experiences (iOS & Flutter)[cite: 24].  I focus deeply on **smooth UIs and scalable architectures**.
+    *  *Experience:* Over 3 years deep in the mobile ecosystem.
+* **Building @ appsflow.io:** Currently in stealth mode.
+* **Founder @ Investorsync:** Built to crack the code on fundraising by aggregating a database of 100k+ investors for startups.
+    *  *(Note: I'm happy to share my investor database to help founders—DM me!)*
+
+### 🛠️ My Playground
+
+| Category | Key Tech & Focus |
+| :--- | :--- |
+| **Mobile** |  Flutter, iOS, React Native (Deep focus on UI Performance)|
+| **Backend** |  Node.js, Python |
+| **Tinkering** |  ML (TensorFlow/PoseNet), OCR (Pytesseract + Flask)|
+
+### 📚 Featured Publications & Work
+
+* Yet to write some publications
+
+### 🔗 Connect with Me
+
+| Platform | Handle/Link |
+| :--- | :--- |
+| **LinkedIn** |  [linkedin.com/in/mallicksidhartha7](https://www.linkedin.com/in/mallicksidhartha7/) |
+| **Company** |  [investorsync.in](https://investorsync.in/) |
+| **Blog** |  [ahtrahdis7.medium.com](https://ahtrahdis7.medium.com/) |
+| **GitHub** |  [github.com/ahtrahdis7](https://github.com/ahtrahdis7) |
+| **Email** |  [mallicksidhartha7@gmail.com](mailto:mallicksidhartha7@gmail.com)|
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ahtrahdis7&color=007fff" />
 </p>
